@@ -7,7 +7,7 @@ import FormularioTareas from "./components/FormularioTareas";
 function App() {
   return (
     <>
-      <Container>
+      <Container className="my-4 mainPage">
         <h1 className="text-center">Lista de Tareas</h1>
         <FormularioTareas></FormularioTareas>
       </Container>
