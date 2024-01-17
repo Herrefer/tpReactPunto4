@@ -1,12 +1,19 @@
-import './App.css'
+import { Container } from "react-bootstrap";
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Footer from "./components/Footer";
+import FormularioTareas from "./components/FormularioTareas";
 
 function App() {
-  
   return (
     <>
-      
+      <Container>
+        <h1 className="text-center">Lista de Tareas</h1>
+        <FormularioTareas></FormularioTareas>
+      </Container>
+      <Footer></Footer>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
