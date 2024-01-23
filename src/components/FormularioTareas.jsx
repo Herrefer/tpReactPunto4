@@ -12,6 +12,10 @@ const FormularioTareas = () => {
     setTarea(' ');
   }
 
+  const borrarTarea = (nombreTarea)=>{
+    
+  }
+
   return (
     <section>
       <Form onSubmit={handleSubmit}>
