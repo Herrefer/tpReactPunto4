@@ -19,4 +19,4 @@ El punto 4 de este trabajo consiste en hacer una agenda funcional en la que se p
 - Herrera Victor Fernando
 
 ### Para probar el proyecto
-solo deben dirigirse al siguiente link :  https://tpreactpunto3.netlify.app/
+solo deben dirigirse al siguiente link :  https://tpreactpunto4.netlify.app/
