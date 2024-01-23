@@ -9,7 +9,6 @@ const FormularioTareas = () => {
   function handleSubmit (e){
     e.preventDefault();
     setTareas([...tareas, tarea]);
-    setTarea(' ');
   }
 
   const borrarTarea = (nombreTarea)=>{
